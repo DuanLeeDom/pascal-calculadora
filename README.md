@@ -2,8 +2,6 @@
 
 Esta calculadora foi desenvolvida com base na elegante e funcional calculadora encontrada no sistema operacional Linux Mint. Foi criada utilizando a linguagem de programação Pascal e a IDE Lazarus.
 
-![Calculadora Inspirada no Mint]
-
 ![Captura de tela 2024-05-06 125927](https://github.com/DuanLeeDom/Calculadora-Delphi/assets/116463153/063d25ff-0f8b-49fb-b919-dab269e60603)
 
 ## Como Baixar e Executar
